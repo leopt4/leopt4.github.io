@@ -75,12 +75,12 @@ _Ha Noi University of Science and Technology, Vietnam_
 ## 🔧 SKILLS
 - **Programming Languages:** C/C++/C#, Python, Matlab/Simulink
 - **Robotic Framework:** ROS, Ardupilot/PX4, GTSAM
-- - **AI & Machine Learning:** Pytorch, OpenCV, Matplotlib
+- **AI & Machine Learning:** Pytorch, OpenCV, Matplotlib
 - **Tools:** Git, Docker, Jupyter Notebook, Linux
 - **Languages:** English (IELTS: 7.0 overall)
   
 
 ## 🎖️ HONORS & AWARDS
-- **Erasmus Mundus Joint Masters Scholarship in Intelligent Field Robotic Systems (IFRoS) IN 2023**
+- **Erasmus Mundus Joint Masters Scholarship in 2023**
 - **Excellent Engineer Awards in Viettel Corporation in 2021 and 2022**
 - **Bronze Medals in the National Physics Olympiad in 2015**
