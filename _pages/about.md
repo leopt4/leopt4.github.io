@@ -12,20 +12,20 @@ Erasmus Scholar pursuing a Master of Medical Imaging and Applications with a str
 
 ## 💼 EXPERIENCE
 
-### Technical Lead | Robotics - Autopilot
+### TECHICAL LEAD | ROBOTICS - AUTOPILOT
 **Viettel High Technology Industries Corporation**  
 **Duration:** January 2021 – July 2023
 - Led an autopilot team of 5 members.
 - Responsible for technical decisions, team communication.
 - Designed software system of the autopilot.
   
-### Robotics Engineer
+### ROBOTIC ENGINEER
 **Viettel Aerospace Institute**  
 **Duration:** March 2020 – January 2021  
 - Designed and developed a navigation system for UAV.
 - Calibrated and tested autonomous sensors.
   
-### Junior Researcher
+### JUNIOR RESEARCHER
 **Hanoi University of Science and Technology**  
 **Duration:** June 2016 – Aug 2020
 - Researched new algorithms and control theory in autonomous vehicles.
