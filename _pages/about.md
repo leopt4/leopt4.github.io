@@ -61,13 +61,13 @@ Erasmus Scholar pursuing a Master of Medical Imaging and Applications with a str
 
 
 ## 🎓 EDUCATION
+
 **Erasmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRoS)**  
 _University of Girona, University of Zagreb, Eötvös Loránd University_  
 **Duration:** September 2023 – Present
 **GPA:** 9.05/10.0
 
-**Bachelor of Control Engineering and Automation**  
-**Talented Engineer’s Programme**
+**Bachelor of Control Engineering and Automation - Talented Engineer’s Programme**  
 _Ha Noi University of Science and Technology, Vietnam_  
 **GPA:** 3.37/4.0 - Top 5%
 
