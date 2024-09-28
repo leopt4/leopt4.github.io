@@ -1,7 +1,7 @@
 ---
 title: "Sliding Variable-based Online Adaptive Reinforcement Learning of Uncertain/Disturbed Nonlinear Mechanical Systems"
 collection: publications
-category: Journal
+category: Journal Articles
 permalink: /publication/2021-01-02-paper-OARL-UNMS
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-02-01

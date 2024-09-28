@@ -1,7 +1,7 @@
 ---
 title: "Online Actor-critic Reinforcement Learning Control for Uncertain Surface Vessel Systems with External Disturbances"
 collection: publications
-category: Journal
+category: Journal Articles
 permalink: /publication/2022-03-01-paper-OAC-RL-USV-ED
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-01-03

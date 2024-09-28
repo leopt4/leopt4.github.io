@@ -1,7 +1,7 @@
 ---
 title: "Disturbance observer-based adaptive reinforcement learning for perturbed uncertain surface vessels"
 collection: publications
-category: Journal
+category: Journal Articles
 permalink: /publication/2022-01-11-paper-DO-RL-USV
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-11-01

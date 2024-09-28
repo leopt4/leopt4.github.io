@@ -1,7 +1,7 @@
 ---
 title: "A Finite-Time Sliding Mode Controller Design for Flexible Joint Manipulator Systems based on Disturbance Observer"
 collection: publications
-category: Journal
+category: Journal Articles
 permalink: /publication/2019-07-01-paper-title-FT-SMC-FJMS-DO
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2019-07-01

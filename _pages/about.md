@@ -12,7 +12,7 @@ Erasmus Scholar pursuing a Master of Medical Imaging and Applications with a str
 
 ## 💼 EXPERIENCE
 
-### TECHICAL LEAD | ROBOTICS - AUTOPILOT
+### TECHNICAL LEAD | ROBOTICS - AUTOPILOT
 **Viettel High Technology Industries Corporation**  
 **Duration:** January 2021 – July 2023
 - Led an autopilot team of 5 members.
