@@ -81,11 +81,11 @@ layout: default
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
-                {% when 'basics' %}
+                {% when 'General Information' %}
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'work' %}
+                {% when 'experience' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
