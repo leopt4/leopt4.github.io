@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: leopt4
+permalink: /
 subtitle: MSc. Student @ <a href='https://ifrosmaster.org/'>IFRoS</a>
 
 profile:
