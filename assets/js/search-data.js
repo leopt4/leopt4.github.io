@@ -395,14 +395,14 @@ ninja.data = [{
           section: "News",},{id: "news-i-particpated-in-drone-days-4th-aerial-vehicles-end-user-workshop-in-zagreb-croatia",
           title: 'I particpated in Drone Days - 4th Aerial Vehicles end-user workshop in Zagreb,...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-task-priority-kinematic-control-system-for-a-mobile-manipulator",
+          title: 'Task-Priority Kinematic Control System for a Mobile Manipulator',
+          description: "Hands-On Intervention",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-formation-control-of-multi-robot-systems-using-consensus-protocols",
+          title: 'Formation Control of Multi-Robot Systems Using Consensus Protocols',
+          description: "Multi-robot Systems - Formation Control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
@@ -459,7 +459,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Thanh-Loc (Leo) PHAM", "_blank");
+          window.open("https://www.linkedin.com/in/loc-thanh-pham", "_blank");
         },
       },{
         id: 'social-scholar',
