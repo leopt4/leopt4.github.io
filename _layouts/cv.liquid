@@ -8,17 +8,12 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-            {% endif %}
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-          >
-            <i class="fa-solid fa-file-pdf"></i>
-          </a>
+            ><i class="fa-solid fa-file-pdf"></i
+          ></a>
         {% endif %}
       </h1>
       {% if page.description %}
@@ -59,17 +54,12 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-            {% endif %}
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-          >
-            <i class="fa-solid fa-file-pdf"></i>
-          </a>
+            ><i class="fa-solid fa-file-pdf"></i
+          ></a>
         {% endif %}
       </h1>
       {% if page.description %}
@@ -91,11 +81,11 @@ layout: default
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
-                {% when 'basics' %}
+                {% when 'General Information' %}
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'work' %}
+                {% when 'experience' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
