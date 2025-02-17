@@ -1,13 +1,30 @@
 ---
 layout: page
 title: Formation Control of Multi-Robot Systems Using Consensus Protocols
-description: Multi-robot Systems - Formation Control
+description: Multi-robot Systems - Formation Control 
 img: assets/gif/project_2/4_agents_lab.gif
 importance: 2
 category: work
 giscus_comments: false
 ---
 
+Collaborator(s): Tanakrit Lertcomepeesin, Fatima Yousif, Vania Katherine Mulia, Sawera Yaseen
+
+
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-2 mt-3 mt-md-0">
+        <a href="https://ifrosmaster.org/">:floppy_disk: Code</a>
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
+        <a href="https://ifrosmaster.org/">:memo: Report</a>
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
+        <a href="https://ifrosmaster.org/">:clapper: Demo Videos</a>
+    </div>
+</div>
+
+---
 This pioneering project by a dedicated team of five master’s students, including myself, delves into the development and implementation of **consensus protocol-based** strategies for the robust coordination and formation control of multi-robot systems. Focusing on rendezvous and formation control, we crafted a software framework utilizing graph theory for dynamic robot swarm control. My contributions spanned from conceptualization to implementation, including algorithm development, simulation and laboratory testing, and analytical evaluation. This project not only honed my skills in robotics and software development but also highlighted my ability to collaborate effectively and drive innovation in complex multi-robot systems.
 
 ## Methodology
