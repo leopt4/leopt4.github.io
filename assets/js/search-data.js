@@ -405,9 +405,9 @@ ninja.data = [{
           description: "Multi-robot Systems - Formation Control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-personalized-llm-based-smart-home-assistant",
+          title: 'Personalized LLM-Based Smart Home Assistant',
+          description: "Human-Robot Interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
