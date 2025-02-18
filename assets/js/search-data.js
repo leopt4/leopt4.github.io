@@ -415,14 +415,14 @@ ninja.data = [{
           description: "Localization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-autonomous-exploration-in-3d-environment-for-turtlebot",
-          title: 'Autonomous Exploration in 3D environment for Turtlebot',
+            },},{id: "projects-autonomous-exploration-in-3d-environment",
+          title: 'Autonomous Exploration in 3D environment',
           description: "Planning, TARE global planner, Falco local planner",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-feature-based-slam-using-an-ekf",
+          title: 'Feature-based SLAM using an EKF',
+          description: "Hands-On Localization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
