@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Task-Priority Kinematic Control System for a Mobile Manipulator
-description: Hands-On Intervention
+title: Task-Priority Kinematic Control for a Mobile Manipulator
+description: Intervention, Pick and Place task
 img: assets/gif/project_1/intro.gif
 importance: 1
 category: work
