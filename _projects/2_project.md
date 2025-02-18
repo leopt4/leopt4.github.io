@@ -10,8 +10,6 @@ giscus_comments: false
 
 Collaborator(s): Tanakrit Lertcomepeesin, Fatima Yousif, Vania Katherine Mulia, Sawera Yaseen
 
-
-
 <div class="row justify-content-sm-left">
     <div class="col-sm-2 mt-3 mt-md-0">
         <a href="https://ifrosmaster.org/">:floppy_disk: Code</a>
