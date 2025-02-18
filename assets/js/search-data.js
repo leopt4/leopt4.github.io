@@ -425,9 +425,9 @@ ninja.data = [{
           description: "Hands-On Localization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-controlling-a-swarm-of-robots-using-reynolds-rules",
+          title: 'Controlling a Swarm of Robots using Reynolds’ Rules',
+          description: "Multi-robot Systems - Formation Control - Reynolds’ Rules",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
