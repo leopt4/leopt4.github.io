@@ -410,9 +410,9 @@ ninja.data = [{
           description: "Human-Robot Interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-robust-graph-slam-using-icp-based-lidar-scan-matching-and-ekf-imu-preintegration",
+          title: 'Robust Graph SLAM using ICP-Based LIDAR Scan Matching and EKF-IMU preintegration',
+          description: "Localization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
