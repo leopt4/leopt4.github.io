@@ -2,7 +2,7 @@
 layout: page
 title: Personalized LLM-Based Smart Home Assistant
 description: Human-Robot Interaction
-img: assets/gif/project_3/ava.gif
+img: assets/gif/project_3/ava_2.gif
 # redirect: https://unsplash.com
 importance: 3
 category: work

@@ -55,7 +55,7 @@ bib_search: true
 
 # Dimensions
 max_width_extend: 1020px
-max_width: 1200px
+max_width: 1280px
 
 # TODO: add layout settings (single page vs. multi-page)
 
