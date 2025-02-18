@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_project
 title: Personalized LLM-Based Smart Home Assistant
 description: Human-Robot Interaction
 img: assets/gif/project_3/ava_2.gif

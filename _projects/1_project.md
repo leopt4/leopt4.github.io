@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_project
 title: Task-Priority Kinematic Control for a Mobile Manipulator
 description: Intervention, Pick and Place task
 img: assets/gif/project_1/intro.gif

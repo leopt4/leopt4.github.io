@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_project
 title: Feature-based SLAM using an EKF
 description: Hands-On Localization
 img: assets/gif/project_6/demo_2.gif

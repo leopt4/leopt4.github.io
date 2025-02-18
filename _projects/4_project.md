@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_project
 title: Robust Graph SLAM using ICP-Based LIDAR Scan Matching and EKF-IMU preintegration
 description: Localization
 img: /assets/img/project_4/intro.png

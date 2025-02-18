@@ -5,7 +5,8 @@
 
 // Dimensions
 $max-content-width: {{ site.max_width }};
-$max-content-width-extend: {{ site.max_width_extend }};
+$max-content-width-about: {{ site.max_width_about }};
+$max-content-width-project: {{ site.max_width_project }};
 
 @import
   "variables",

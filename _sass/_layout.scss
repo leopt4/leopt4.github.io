@@ -50,13 +50,28 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
-// TODO: redefine projects layout.
+// TODO: redefine about layout.
 .container-about {
-  max-width: $max-content-width-extend;
+  max-width: $max-content-width-about;
   margin: 0 auto;    /* Center the container */
   // padding: 0 20px;   /* Add some padding for better spacing */
   // line-height: 1.4;
   font-size: 18px;
+  // text-align: justify;
+  // hyphens: auto;
+}
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.
+.container-project {
+  max-width: $max-content-width-project;
+  margin: 0 auto;    /* Center the container */
+  // padding: 0 20px;   /* Add some padding for better spacing */
+  // line-height: 1.4;
+  // font-size: 18px;
   // text-align: justify;
   // hyphens: auto;
 }

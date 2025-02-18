@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_project
 title: Formation Control of Multi-Robot Systems Using Consensus Protocols
 description: Multi-robot Systems - Formation Control 
 img: assets/gif/project_2/4_agents_lab.gif
