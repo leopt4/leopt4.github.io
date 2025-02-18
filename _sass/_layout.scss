@@ -51,3 +51,12 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+.container-about {
+  max-width: $max-content-width-extend;
+  margin: 0 auto;    /* Center the container */
+  // padding: 0 20px;   /* Add some padding for better spacing */
+  // line-height: 1.4;
+  font-size: 18px;
+  // text-align: justify;
+  // hyphens: auto;
+}
