@@ -4,7 +4,7 @@ title: Autonomous Exploration in 3D environment
 description: Planning, TARE global planner, Falco local planner
 img: assets/gif/project_5/intro_2.gif
 importance: 1
-category: work
+category: course
 ---
 
 Collaborator(s): Atharva Patwe

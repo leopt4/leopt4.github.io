@@ -3,9 +3,9 @@ layout: page_project
 title: Robust Graph SLAM using ICP-Based LIDAR Scan Matching and EKF-IMU preintegration
 description: Localization
 img: /assets/img/project_4/intro.png
-importance: 1
-category: work
-related_publications: true
+importance: 2
+category: course
+related_publications: false
 ---
 
 Collaborator(s): Atharva Patwe
@@ -44,7 +44,7 @@ factor.
     Graph SLAM ROS Package Architecture.
 </div>
 
-The uncertainty of the odometry is calculated by the EKF by tuning the uncertainties of the encoders and compass. The final covariance matrix of the odometry is used to estimate the Gaussian noise model for that factor. On the other hand, since ICP does not have a built-in covariance estimation procedure, the uncertainty of the scan matching factor is estimated using a method derived from the work of A. Censi as proposed in {% cite Censi07 %}. After adding all the factors with their uncertainties and variables, the graph is optimized. For Online applications, sparse nonlinear incremental optimization (iSAM2) is used which achieves improvements in efficiency through incremental variable re-ordering and fluid relinearization, eliminating the need for periodic batch steps as proposed in {% cite Kaess %}. For the full SLAM problem, more accurate solvers, such as the Levenberg-Marquardt solver, are used. One drawback of using iSAM2 in GTSAM is that, as an incremental solver, it cannot estimate the uncertainties of the robot’s past poses. The optimized poses are then used to register all the scans again to build the world map.
+The uncertainty of the odometry is calculated by the EKF by tuning the uncertainties of the encoders and compass. The final covariance matrix of the odometry is used to estimate the Gaussian noise model for that factor. On the other hand, since ICP does not have a built-in covariance estimation procedure, the uncertainty of the scan matching factor is estimated using a method derived from the work of A. Censi. After adding all the factors with their uncertainties and variables, the graph is optimized. For Online applications, sparse nonlinear incremental optimization (iSAM2) is used which achieves improvements in efficiency through incremental variable re-ordering and fluid relinearization, eliminating the need for periodic batch steps as proposed by Kaess. For the full SLAM problem, more accurate solvers, such as the Levenberg-Marquardt solver, are used. One drawback of using iSAM2 in GTSAM is that, as an incremental solver, it cannot estimate the uncertainties of the robot’s past poses. The optimized poses are then used to register all the scans again to build the world map.
 
 ## Results
 1. ICP Alignment

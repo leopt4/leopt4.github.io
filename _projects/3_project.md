@@ -5,7 +5,7 @@ description: Human-Robot Interaction
 img: assets/gif/project_3/ava_2.gif
 # redirect: https://unsplash.com
 importance: 3
-category: work
+category: course
 ---
 
 Collaborator(s): Precious Philip-Ifabiyi, Atharva Patwe, Mohamed Khaled
