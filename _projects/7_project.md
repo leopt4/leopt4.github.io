@@ -1,10 +1,10 @@
 ---
 layout: page_project
 title: Controlling a Swarm of Robots using Reynolds’ Rules
-description: Multi-robot Systems - Formation Control - Reynolds’ Rules
-img: assets/img/4.jpg
-importance: 1
-category: work
+description: Multi-robot Systems - Formation Control
+img: assets/gif/project_7/intro.gif
+importance: 4
+category: course
 related_publications: false
 ---
 
