@@ -428,9 +428,9 @@ ninja.data = [{
           description: "Control - Navigation - Localization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-vtol-drone-1-6-uav-project",
+          title: 'VTOL Drone - 1-6 UAV Project',
+          description: "Control - Navigation - Localization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
