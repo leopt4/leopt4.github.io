@@ -20,4 +20,13 @@ Kamikaze Drone project was developed in period 2021-2023 by UAV center, Viettel 
 
 
 ## Results
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/gif/project_8/simulations.gif" title="Attack simulation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Attack phase in X-Plane simulator.
+</div>
+
 <iframe width="960" height="540" src="https://www.youtube.com/embed/zn8sumGB-eM" title="Viettel Kamikaze Drone project. Launch and Attacking features" frameborder="0" style="border: 0px solid #bbb; border-radius: 10px; width: 100%;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
