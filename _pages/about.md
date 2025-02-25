@@ -35,6 +35,10 @@ Professionally, I have worked at [Viettel High Technology Industries Corporation
 
 I hold a Bachelor’s degree in Control Engineering and Automation from Hanoi University of Science and Technology, where I gained a strong foundation in control theory, systems engineering, and autonomous systems.
 
+<h2>Projects</h2>
+
+Check out my projects [here](/projects/).
+
 
 
 
