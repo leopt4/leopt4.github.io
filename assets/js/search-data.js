@@ -388,51 +388,51 @@ ninja.data = [{
           section: "News",},{id: "news-i-particpated-in-drone-days-4th-aerial-vehicles-end-user-workshop-in-zagreb-croatia",
           title: 'I particpated in Drone Days - 4th Aerial Vehicles end-user workshop in Zagreb,...',
           description: "",
-          section: "News",},{id: "projects-task-priority-kinematic-control-for-a-mobile-manipulator",
-          title: 'Task-Priority Kinematic Control for a Mobile Manipulator',
-          description: "Intervention, Pick and Place task",
+          section: "News",},{id: "projects-autonomous-exploration-in-3d-environment",
+          title: 'Autonomous Exploration in 3D environment',
+          description: "Planning, TARE global planner, Falco local planner",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/AutoExploration3D/";
             },},{id: "projects-formation-control-of-multi-robot-systems-using-consensus-protocols",
           title: 'Formation Control of Multi-Robot Systems Using Consensus Protocols',
           description: "Multi-robot Systems - Formation Control",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-personalized-llm-based-smart-home-assistant",
-          title: 'Personalized LLM-Based Smart Home Assistant',
-          description: "Human-Robot Interaction",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-robust-graph-slam-using-icp-based-lidar-scan-matching-and-ekf-imu-preintegration",
-          title: 'Robust Graph SLAM using ICP-Based LIDAR Scan Matching and EKF-IMU preintegration',
-          description: "Localization",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-autonomous-exploration-in-3d-environment",
-          title: 'Autonomous Exploration in 3D environment',
-          description: "Planning, TARE global planner, Falco local planner",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/ConsensusFormationControl/";
             },},{id: "projects-feature-based-slam-using-an-ekf",
           title: 'Feature-based SLAM using an EKF',
           description: "Hands-On Localization",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-controlling-a-swarm-of-robots-using-reynolds-rules",
-          title: 'Controlling a Swarm of Robots using Reynolds’ Rules',
-          description: "Multi-robot Systems - Formation Control",
+              window.location.href = "/projects/FeatureSLAMEKF/";
+            },},{id: "projects-robust-graph-slam-using-icp-based-lidar-scan-matching-and-ekf-imu-preintegration",
+          title: 'Robust Graph SLAM using ICP-Based LIDAR Scan Matching and EKF-IMU preintegration',
+          description: "Localization",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/GraphSLAMLidarImu/";
             },},{id: "projects-kamikaze-drone-2x-uav-project",
           title: 'Kamikaze Drone - 2X UAV Project',
           description: "Control - Navigation - Localization",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/KamikazeDrone/";
+            },},{id: "projects-personalized-llm-based-smart-home-assistant",
+          title: 'Personalized LLM-Based Smart Home Assistant',
+          description: "Human-Robot Interaction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/LLMBasedHomeAssistant/";
+            },},{id: "projects-controlling-a-swarm-of-robots-using-reynolds-rules",
+          title: 'Controlling a Swarm of Robots using Reynolds’ Rules',
+          description: "Multi-robot Systems - Formation Control",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ReynoldSwarmControl/";
+            },},{id: "projects-task-priority-kinematic-control-for-a-mobile-manipulator",
+          title: 'Task-Priority Kinematic Control for a Mobile Manipulator',
+          description: "Intervention, Pick and Place task",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/TaskPriorityKineControl/";
             },},{id: "projects-vtol-drone-1-6-uav-project",
           title: 'VTOL Drone - 1-6 UAV Project',
           description: "Control - Navigation - Localization",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/VTOLDrone/";
             },},{
         id: 'social-email',
         title: 'email',
