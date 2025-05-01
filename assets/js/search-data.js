@@ -398,6 +398,11 @@ ninja.data = [{
           description: "Multi-robot Systems - Formation Control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ConsensusFormationControl/";
+            },},{id: "projects-deep-reinforecement-learning-for-drone-obstacle-avoidance",
+          title: 'Deep Reinforecement Learning for Drone Obstacle Avoidance',
+          description: "Navigation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DRL_Drone_OA/";
             },},{id: "projects-feature-based-slam-using-an-ekf",
           title: 'Feature-based SLAM using an EKF',
           description: "Hands-On Localization",
